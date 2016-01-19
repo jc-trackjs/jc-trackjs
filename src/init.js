@@ -1,0 +1,1 @@
+window.jsTracker = new jsTracker();
